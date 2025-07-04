@@ -1,0 +1,13 @@
+source /c/Users/jaime/AppData/Local/pypoetry/Cache/virtualenvs/financial-statement-analysis-_f4IPSsv-py3.11/Scripts/activate
+
+poetry add yfinance matplotlib numpy pandas
+
+
+Siguientes pasos:
+1. Coger los 3 Statements
+2. Ver como automatizar la preparación de los statements con 3 casos de algunas variables.
+3. Una vez preparadas las tablas irse a Power BI y graficar
+4. Añadir predicciones o análisis en Python!
+5. Añadir mi opinión para generar el informe
+6. Añadir Agente de IA que ayude con la predicción
+7. Capturar resultados interesantes y mostrar en tweet

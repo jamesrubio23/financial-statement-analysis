@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "financial-statement-analysis"
+version = "0.1.0"
+description = ""
+authors = ["jamesrubio23 <jamesrubiojames@gmail.com>"]
+readme = "README.md"
+packages = [{include = "financial_statement_analysis"}]  # opcional
+
+[tool.poetry.dependencies]
+python = "^3.11"
+yfinance = "^0.2.64"
+matplotlib = "^3.10.3"
+numpy = "^2.3.1"
+pandas = "^2.3.0"
+ipykernel = "^6.29.5"
+
+[tool.poetry.group.dev.dependencies]
+notebook = "^7.4.4"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

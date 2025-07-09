@@ -11,3 +11,7 @@ Siguientes pasos:
 5. Añadir mi opinión para generar el informe
 6. Añadir Agente de IA que ayude con la predicción
 7. Capturar resultados interesantes y mostrar en tweet
+
+
+Ideas:
+- Los estados financieros no tienen la misma estructura. Se podrá automatizar con Ollama? 
